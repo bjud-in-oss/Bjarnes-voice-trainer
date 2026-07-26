@@ -1,0 +1,8 @@
+{
+  "name": "Fungerande Bjarne's Voice Trainer",
+  "description": "A specialized Teachable Machine interface for training custom audio commands to assist users with Aphasia.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
